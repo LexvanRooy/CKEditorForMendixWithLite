@@ -1,0 +1,3 @@
+Deze aangepaste versie van CKEditor voor Mendix bevat the LITE plugin waardoor het markeren en volgen van wijzigingen mogelijk wordt. De optie om dit in te schakelen is opgenomen in de Documentopties met TWEE keuze parameters:
+1) het inschakelen van LITE
+2) het opnemen van de besturingselementen in de CKEditor interface
